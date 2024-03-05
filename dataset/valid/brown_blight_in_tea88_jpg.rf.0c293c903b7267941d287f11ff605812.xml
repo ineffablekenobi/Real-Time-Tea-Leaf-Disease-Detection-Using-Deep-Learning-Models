@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>brown_blight_in_tea88_jpg.rf.0c293c903b7267941d287f11ff605812.jpg</filename>
+	<path>brown_blight_in_tea88_jpg.rf.0c293c903b7267941d287f11ff605812.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Brown Blight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>103</xmin>
+			<xmax>266</xmax>
+			<ymin>57</ymin>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+</annotation>

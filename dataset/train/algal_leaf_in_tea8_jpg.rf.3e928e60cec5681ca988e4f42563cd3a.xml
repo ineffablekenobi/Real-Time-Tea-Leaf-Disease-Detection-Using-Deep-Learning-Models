@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>algal_leaf_in_tea8_jpg.rf.3e928e60cec5681ca988e4f42563cd3a.jpg</filename>
+	<path>algal_leaf_in_tea8_jpg.rf.3e928e60cec5681ca988e4f42563cd3a.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Algal Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>116</xmin>
+			<xmax>265</xmax>
+			<ymin>1</ymin>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+</annotation>

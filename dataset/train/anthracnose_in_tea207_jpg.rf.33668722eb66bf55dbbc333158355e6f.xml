@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>anthracnose_in_tea207_jpg.rf.33668722eb66bf55dbbc333158355e6f.jpg</filename>
+	<path>anthracnose_in_tea207_jpg.rf.33668722eb66bf55dbbc333158355e6f.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Anthracnose</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>75</xmin>
+			<xmax>267</xmax>
+			<ymin>110</ymin>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+</annotation>

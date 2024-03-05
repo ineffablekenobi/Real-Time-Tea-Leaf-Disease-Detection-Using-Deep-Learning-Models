@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>healthy_tea_leaf138_jpg.rf.e3ae91548f254f420b49693f836cb635.jpg</filename>
+	<path>healthy_tea_leaf138_jpg.rf.e3ae91548f254f420b49693f836cb635.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

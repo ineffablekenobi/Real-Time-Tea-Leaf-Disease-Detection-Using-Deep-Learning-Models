@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>red_leaf_spot_in_tea121_jpg.rf.791da418596ed3ec6bff5f7fc3fa7eca.jpg</filename>
+	<path>red_leaf_spot_in_tea121_jpg.rf.791da418596ed3ec6bff5f7fc3fa7eca.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Red Leaf Spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>68</xmin>
+			<xmax>228</xmax>
+			<ymin>31</ymin>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>bird_eye_spot_in_tea143_jpg.rf.30bcc64da4524f37c13232fb4aa1ee71.jpg</filename>
+	<path>bird_eye_spot_in_tea143_jpg.rf.30bcc64da4524f37c13232fb4aa1ee71.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bird Eye Spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>75</xmin>
+			<xmax>297</xmax>
+			<ymin>102</ymin>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+</annotation>
